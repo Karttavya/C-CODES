@@ -1,3 +1,4 @@
+//recehcked stack
 #include <iostream>
 #include <string>
 using namespace std;
@@ -172,3 +173,4 @@ int main() {
     cout << "Program ended.\n";
     return 0;
 }
+
